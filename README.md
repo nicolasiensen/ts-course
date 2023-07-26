@@ -1,2 +1,6 @@
 # ts-course
-Codebase for the TypeScript course from Udemy
+
+```bash
+docker build
+docker run -it 7f172d7d181b /bin/bash
+```
